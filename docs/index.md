@@ -35,6 +35,11 @@ Choose our AMI in Community AMIs.
 
 ![Choose our AMI in community AMI](/assets/ami-2.png)
 
+Or you can download the vmdk and vmx here:
+
+- https://bombe-public.s3.us-west-2.amazonaws.com/EC2-BOMBE.vmdk
+- https://bombe-public.s3.us-west-2.amazonaws.com/EC2-BOMBE.vmx
+
 !!! info "Login via RDP"
 
     To use RDP with your EC2 instance, first expose the EC2 instance to the internet. 
